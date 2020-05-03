@@ -8,7 +8,7 @@
 // Because the above IP address has 32 bits, we can represent it as the unsigned 32 bit number: 2149583361
 // Complete the function that takes an unsigned 32 bit number and returns a string representation of its IPv4 address.
 
-public class Kata {
+public class int32toIPv4 {
     public static String longToIP(long ip) {
 
         StringBuilder result = new StringBuilder();

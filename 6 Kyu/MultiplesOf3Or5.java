@@ -3,7 +3,7 @@
 //    Note: If the number is a multiple of both 3 and 5, only count it once.
 
 import java.util.*;
-public class Solution {
+public class MultiplesOf3Or5 {
 
   public int solution(int number) {
     HashSet<Integer> set = new HashSet<>();

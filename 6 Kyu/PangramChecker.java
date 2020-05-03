@@ -12,3 +12,4 @@ public class PangramChecker {
                 .replaceAll("(.)(?=.*\\1)", "")
                 .length() == 26;
     }
+}

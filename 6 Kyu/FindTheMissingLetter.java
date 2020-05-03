@@ -8,7 +8,7 @@
 // ['O','Q','R','S'] -> 'P'
 
 import java.util.*;
-public class Kata
+public class FindTheMissingLetter
 {
     public static char findMissingLetter(char[] array)
     {

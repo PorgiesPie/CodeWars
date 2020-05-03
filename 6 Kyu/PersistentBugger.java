@@ -2,7 +2,7 @@
 // which is the number of times you must multiply the digits in num until you reach a single digit.
 
 import java.util.ArrayList;
-public class Persist {
+public class PersistentBugger {
     static int count = 0;
     public static int persistence(long n) {
         long digit;

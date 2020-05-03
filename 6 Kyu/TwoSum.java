@@ -5,7 +5,7 @@
 // The input will always be valid.
 
 import java.util.*;
-public class Solution
+public class TwoSum
 {
     public static int[] twoSum(int[] numbers, int target) {
         HashMap<Integer,Integer> map = new HashMap<>();

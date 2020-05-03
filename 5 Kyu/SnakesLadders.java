@@ -1,5 +1,3 @@
-package CodeWars;
-
 import java.util.HashMap;
 
 public class SnakesLadders {
